@@ -1,0 +1,112 @@
+header{
+    border: solid 2px rgb(52, 26, 168);
+    padding: 12px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;}
+     .thing{
+        background-color: rgba(155, 151, 151, 0.849);
+        width: 170px;
+        height: 200px;
+        border-radius: 20px;
+        padding: 10px;
+        display: flex;
+       justify-content: center;
+     align-items: center;
+      flex-direction: column-reverse;
+    margin: 20px;} 
+    
+   .things{
+    margin-top: 70px;
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around
+} 
+    .circle-1{
+        background-color: green;
+        width: 90px;
+        height: 90px;
+        border-radius: 100px;
+    }
+    .circle-2{
+        background-color: rgb(161, 83, 161);
+        width: 90px;
+        height: 90px;
+        border-radius: 100px;
+    }
+    .circle-3{
+        background-color: pink;
+        width: 90px;
+        height: 90px;
+        border-radius: 100px;
+    }
+    .circle-4{
+        background-color: orange;
+        width: 90px;
+        height: 90px;
+        border-radius: 100px;
+    }
+    .circle-5{
+        background-color: green;
+        width: 90px;
+        height: 90px;
+        border-radius: 100px;
+    }
+    .circle-6{
+        background-color: rgb(161, 83, 161);
+        width: 90px;
+        height: 90px;
+        border-radius: 100px;
+    }
+    .circle-7{
+        background-color: pink;
+        width: 90px;
+        height: 90px;
+        border-radius: 100px;
+    }
+    .circle-8{
+        background-color: orange;
+        width: 90px;
+        height: 90px;
+        border-radius: 100px;
+    }
+    .circle-9{
+        background-color: pink;
+        width: 90px;
+        height: 90px;
+        border-radius: 100px;
+    }
+    .be{
+        display: flex;
+    padding: 20px;
+    justify-content: center;
+    }
+    footer{
+        height: 200px;
+        background-color: gray;
+        margin-top: 50px;
+        display: flex;
+        justify-content: space-between;
+       flex-direction: column-reverse;
+    }
+    footer>p{
+        padding-left: 50px;
+    }
+    .bo{
+        border: solid 1px black;
+        border-radius: 5px;
+       padding: 10px;}
+       .maini{
+        border-left: solid 1px black;
+        margin-left: 20px;
+       }
+       .one{
+        font-weight: bolder;
+        display: flex;
+       }
+   .two{
+    padding-left: 30px;
+   }
