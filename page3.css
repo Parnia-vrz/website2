@@ -1,0 +1,75 @@
+header{
+    border: solid 2px rgb(52, 26, 168);
+    padding: 12px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;}
+    .thing{
+        background-color: rgba(155, 151, 151, 0.849);
+        width: 170px;
+        height: 200px;
+        border-radius: 20px;
+        padding: 10px;
+        display: flex;
+       justify-content: center;
+       align-items: center;
+      flex-direction: column-reverse;
+    }
+    .things{
+    margin-top: 70px;
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: space-around;
+    }
+    .circle-1{
+        background-color: green;
+        width: 90px;
+        height: 90px;
+        border-radius: 100px;
+    }
+    .circle-2{
+        background-color: rgb(161, 83, 161);
+        width: 90px;
+        height: 90px;
+        border-radius: 100px;
+    }
+    .circle-3{
+        background-color: pink;
+        width: 90px;
+        height: 90px;
+        border-radius: 100px;
+    }
+    .circle-4{
+        background-color: orange;
+        width: 90px;
+        height: 90px;
+        border-radius: 100px;
+    }
+    .be{
+        display: flex;
+    padding: 20px;
+    justify-content: center;
+    }
+    footer{
+        height: 200px;
+        background-color: gray;
+        margin-top: 50px;
+        display: flex;
+        justify-content: space-between;
+       flex-direction: column-reverse;
+    }
+    footer>p{
+        padding-left: 50px;
+    }
+    table{
+        margin-top: 30px;
+        margin-bottom: 80px;
+        margin-left: 90px;
+        border: 2px solid black;
+        width: 1000px;
+        height: 200px;
+    }
+    td{
+        border: 2px solid black; 
+    }
